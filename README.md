@@ -51,7 +51,7 @@ Download the raw videos from [link](https://github.com/LisaAnne/LocalizingMoment
 ### Object Feature extraction
 Please follow [VinVL](https://github.com/pzzhang/VinVL) to extract object feature. For sampled frames from one video, extract objects for each frame. The resulted json file should be in following structure:
 
-```json
+```
 [
 	{
 		'objects': [
